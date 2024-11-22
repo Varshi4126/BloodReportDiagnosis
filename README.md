@@ -122,5 +122,3 @@ An interactive web application that utilizes fuzzy logic to diagnose potential m
 ![App Screenshot](image.png)
 
 ---
-
-By using this **README**, you can convey professionalism and clarity about your project. Let me know if you’d like help creating a logo or additional assets for your repository!
