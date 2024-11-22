@@ -1,7 +1,3 @@
-Here’s a well-structured **README.md** file for your project:
-
----
-
 # **Disease Diagnosis Using Fuzzy Logic**
 
 An interactive web application that utilizes fuzzy logic to diagnose potential medical conditions based on user-provided White Blood Cell (WBC) count, Red Blood Cell (RBC) count, and platelet count. The application is built using `Streamlit` and the `skfuzzy` library.
