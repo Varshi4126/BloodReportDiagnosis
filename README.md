@@ -119,7 +119,7 @@ An interactive web application that utilizes fuzzy logic to diagnose potential m
 
 
 ## **Preview**
-![App Screenshot](screenshot.png)
+![App Screenshot](image.png)
 
 ---
 
